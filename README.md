@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anik Roy</h1>
 <h3 align="center">A passionate web/app developer and ML engineer from India</h3>
 
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="gif" align="right" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternatus29&label=Profile%20views&color=0e75b6&style=flat" alt="eternatus29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eternatus29" alt="eternatus29" /></a> </p>
