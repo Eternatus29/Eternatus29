@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [AI Mock Interview portal](--under development--)
 
-- 🌱 I’m currently learning **Blockchain technology and MLOps**
+- 🌱 I’m currently learning **Azure**
 
 - 👨‍💻 All of my projects are available at [anikroy.vercel.app](anikroy.vercel.app)
 
